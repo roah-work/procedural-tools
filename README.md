@@ -4,13 +4,14 @@ Collection of procedural tools for procedural content generation.
 
 ## Contents
 
-OTLS/HDAs
+### OTLS/HDAs
 
-**HeightLines_HDA**  
-Generates vertical landscape-following curves based on terrain gradient, suitable for terrain feature visualization and stylization.
+- **HeightLines_HDA**  
+  Generates vertical landscape-following curves based on terrain gradient, suitable for terrain feature visualization and stylization.
 
-**HorizonLines_HDA**  
-Produces horizontal landscape-following curves by integrating perpendicular to the terrain gradient, creating horizon-aligned guides.
+- **HorizonLines_HDA**  
+  Produces horizontal landscape-following curves by integrating perpendicular to the terrain gradient, creating horizon-aligned guides.
+
 
 ---
 
